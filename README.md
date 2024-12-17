@@ -12,4 +12,6 @@ Key Features:
 📱 **Responsive Design**: Works seamlessly on desktops, tablets, and mobile devices.  
 
 This project demonstrates expertise in front-end and back-end integration, focusing on building interactive and functional web applications.
+
+
 ![Screenshot 2024-11-14 125347](https://github.com/user-attachments/assets/af13886d-2a67-4200-a5cc-f21f0d8987dd)
